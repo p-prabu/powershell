@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="PowerShell Scripts Banner" width="60%" height="50%" />
+  <img src="assets/banner.png" alt="PowerShell Scripts Banner" style="max-width: 100%; height: auto;" width="80%" />
 </p>
 
 # PowerShell Scripts ✨  
