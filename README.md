@@ -28,9 +28,11 @@ This repository is where I keep the scripts I write, tweak, and experiment with.
 ```
 📁 Scripts/
    ├── System/
+   ├── ActiveDirectory/
    ├── Network/
    ├── Productivity/
    └── Fun/
+  
 README.md
 LICENSE
 ```
